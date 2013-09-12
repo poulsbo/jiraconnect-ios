@@ -1,0 +1,6 @@
+syntax: glob
+*.idea
+*.xcuserdatad
+*.xcworkspacedata
+.DS_Store
+**/output
